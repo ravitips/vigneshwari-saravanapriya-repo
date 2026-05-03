@@ -23,3 +23,6 @@ print(a^2)
 
 a=5
 print(a^3)
+
+a=5
+print(a^4)
