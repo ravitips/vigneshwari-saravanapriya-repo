@@ -2,3 +2,4 @@ Adding a line
 Added a second line
 Added a third line
 Added a fourth line
+I added a text
