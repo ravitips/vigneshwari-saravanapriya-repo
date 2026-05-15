@@ -1,2 +1,3 @@
 Adding a line
 Added a second line
+Added a third line
