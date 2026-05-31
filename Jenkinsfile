@@ -4,7 +4,7 @@ pipeline{
         stage('Build'){
             steps{
                 sh """
-                    sudo echo "This is my page -version 2" > /var/www/html/index.nginx-debian.html
+                    sudo echo "This is my page -version 3" > /var/www/html/index.nginx-debian.html
                  """
             }
         }
